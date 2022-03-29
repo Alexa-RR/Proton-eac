@@ -1,6 +1,6 @@
 [submodule "wine"]
 	path = wine
-	url = ../wine
+	url = https://github.com/Guy1524/wine
 [submodule "dxvk"]
 	path = dxvk
 	url = ../dxvk
